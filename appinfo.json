@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Andy Berdan",
+    "longName": "Storyface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Storyface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "54e2877d-e408-4447-8a18-81f19958fde4",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
